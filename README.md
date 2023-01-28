@@ -1,5 +1,5 @@
 # Overview 
-An inventory system for a big box store like Ikea or Costco with Store and Warehouse locations in the same building. 
+An inventory system for a big box store in which the retail store is also a warehouse. 
 # Features
 - Uses inheritance for the Location class and its subclasses. 
 - Collection classes: LinkedList and Queue
